@@ -64,6 +64,8 @@ def grafik():
         i=i+3
     print(" ")
 
+
+
 while again:
     if again2 == False or player1win == False:
         print("Spieler 1 ist an der Reihe.")
